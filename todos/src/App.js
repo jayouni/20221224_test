@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import styled, { createGlobalStyle } from 'styled-components';
 import Todos from './components/Todos';
